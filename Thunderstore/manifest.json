@@ -1,6 +1,6 @@
 {
   "name": "NoWeaponDust",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/AzumattDev/NoWeaponDust",
   "description": "NoWeaponDust mod for Valheim removes attack VFX, including default \"dust\" and other effects during combat, for a cleaner visual experience. Most noticed on Sledges",
   "dependencies": [
